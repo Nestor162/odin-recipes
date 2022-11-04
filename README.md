@@ -10,6 +10,7 @@ Simple recipe project to practice my HTML and CSS skills
 - Lists
 
 ### Basic git workflow
+Clone repository, add files to staging area, commit
 
 ---
 
