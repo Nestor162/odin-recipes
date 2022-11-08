@@ -12,6 +12,12 @@ Simple recipe project to practice my HTML and CSS skills
 ### Basic git workflow
 Clone repository, add files to staging area, commit
 
+### CSS
+-Basic CSS proprieties
+ - color and background color
+ - font size, weight and family
+ - image size (width and height)
+
 ---
 
 ### Content
