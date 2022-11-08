@@ -17,6 +17,7 @@ Clone repository, add files to staging area, commit
  - color and background color
  - font size, weight and family
  - image size (width and height)
+ - text align
 
 ---
 
