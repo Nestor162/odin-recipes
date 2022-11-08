@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: #ddbb87;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+p, li {
+    font-size: 18px;
+}

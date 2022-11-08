@@ -1,0 +1,12 @@
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+h1, ul {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 24px;
+}
